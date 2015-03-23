@@ -1,0 +1,14 @@
+# New in Fox 1.1.3
+
+- Adjusted tab item top/bottom border to match Firefox Developer Tool
+- Gutter and code editor split into two different backgrounds
+- Changed sidebar background colour
+- Adjusted line highlight and selection background colour
+- Added GitGutter support (https://github.com/jisaacks/GitGutter)
+
+*If you have any suggestions for improvements and fixes, please feel free to add issues at [GitHub](http://github.com/karelvuong/fox/issues).*
+
+***
+
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*

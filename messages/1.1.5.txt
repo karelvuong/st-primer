@@ -1,0 +1,10 @@
+# New in Fox 1.1.5
+
+- Scrollbars on Windows are not as colourful and in-your-face.
+
+*If you have any suggestions for improvements and fixes, please feel free to add issues at [GitHub](http://github.com/karelvuong/fox/issues).*
+
+***
+
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*

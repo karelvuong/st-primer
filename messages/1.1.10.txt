@@ -1,0 +1,16 @@
+# New in Fox 1.1.10
+
+Nothing is new! Just be sure to change your "theme" in `Settings - User` to:
+
+```
+{
+  "theme": "Fox.sublime-theme"
+}
+```
+
+*If you have any suggestions for improvements and fixes, please feel free to add issues at [GitHub](http://github.com/karelvuong/fox/issues).*
+
+***
+
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*

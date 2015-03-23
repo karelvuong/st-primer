@@ -1,0 +1,11 @@
+# New in Fox 1.1.8
+
+- Adjust icon contrast and opacity
+- Added more icons from @ctf0's [Seti_ST3 theme](https://github.com/ctf0/Seti_ST3)
+
+*If you have any suggestions for improvements and fixes, please feel free to add issues at [GitHub](http://github.com/karelvuong/fox/issues).*
+
+***
+
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*

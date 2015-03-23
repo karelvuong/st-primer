@@ -1,0 +1,11 @@
+# New in Fox 1.1.7
+
+- Fixed hidden scrollbar puck in Windows
+- Added experimental light version - try it out if you live on the edge
+
+*If you have any suggestions for improvements and fixes, please feel free to add issues at [GitHub](http://github.com/karelvuong/fox/issues).*
+
+***
+
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*
