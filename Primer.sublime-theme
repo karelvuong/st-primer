@@ -781,9 +781,9 @@
     // Text input field item
     {
         "class": "text_line_control",
+        "content_margin": [0, 0],
         // "layer0.texture": "",
-        "layer0.tint": [255, 255, 255],
-        "content_margin": [0, 8]
+        "layer0.tint": [255, 255, 255]
     },
 
 //
@@ -793,11 +793,11 @@
     // Bottom panel background
     {
         "class": "panel_control",
+        "content_margin": 0,
         // "layer0.texture": "",
         "layer0.inner_margin": [8, 8],
         "layer0.opacity": 1,
         "layer0.tint": [255, 255, 255],
-        "content_margin": 0,
         "layer1.texture": "",
         "layer1.tint": [221, 221, 221], // -00
         "layer1.draw_center": false,
@@ -807,12 +807,15 @@
     // Quick panel background
     {
         "class": "overlay_control",
+        "content_margin": [1, 1],
+        "layer0.tint": [248, 248, 248], // 01
+        "layer0.inner_margin": [0,0,0,0],
         "layer0.opacity": 1,
-        // "layer1.texture": "",
-        "layer1.tint": [51, 61, 70], // 01
-        "layer1.inner_margin": [0,0,0,0],
-        "layer1.opacity": 1,
-        "content_margin": 0
+        "layer1.texture": "",
+        "layer1.tint": [221, 221, 221], // -00
+        "layer1.draw_center": false,
+        "layer1.inner_margin": [1, 0, 1, 1],
+        "layer1.opacity": 1
     },
 
 //
@@ -841,11 +844,42 @@
     },
     {
         "class": "quick_panel_label",
-        "fg": [167, 173, 186, 255], // 04
-        "match_fg": [192, 197, 206, 255], // 05
-        "selected_fg": [192, 197, 206, 255], // 05
-        "selected_match_fg": [239, 241, 245, 255] // 07
+        "fg": [138, 138, 138, 255], // 04
+        "match_fg": [65, 131, 196, 255], // 05
+        "selected_fg": [51, 51, 51, 255], // 05
+        "selected_match_fg": [65, 131, 196, 255] // 07
     },
+        // CUSTOM - Quick Panel Label
+        {
+            "class": "quick_panel_label",
+            "settings": ["theme_primer_tab_active_blue"],
+            "match_fg": [65, 131, 196],
+            "selected_match_fg": [65, 131, 196]
+        },
+        {
+            "class": "quick_panel_label",
+            "settings": ["theme_primer_tab_active_green"],
+            "match_fg": [108, 198, 68],
+            "selected_match_fg": [108, 198, 68]
+        },
+        {
+            "class": "quick_panel_label",
+            "settings": ["theme_primer_tab_active_red"],
+            "match_fg": [189, 44, 0],
+            "selected_match_fg": [189, 44, 0]
+        },
+        {
+            "class": "quick_panel_label",
+            "settings": ["theme_primer_tab_active_orange"],
+            "match_fg": [255, 153, 51],
+            "selected_match_fg": [255, 153, 51]
+        },
+        {
+            "class": "quick_panel_label",
+            "settings": ["theme_primer_tab_active_purple"],
+            "match_fg": [110, 84, 148],
+            "selected_match_fg": [110, 84, 148]
+        },
     {
         "class": "quick_panel_path_label",
         "fg": [101, 115, 126, 255], // 03
@@ -853,6 +887,37 @@
         "selected_fg": [101, 115, 126, 255], // 03
         "selected_match_fg": [167, 173, 186, 255] // 04
     },
+        // CUSTOM - Quick Panel Label
+        {
+            "class": "quick_panel_path_label",
+            "settings": ["theme_primer_tab_active_blue"],
+            "match_fg": [65, 131, 196],
+            "selected_match_fg": [65, 131, 196]
+        },
+        {
+            "class": "quick_panel_path_label",
+            "settings": ["theme_primer_tab_active_green"],
+            "match_fg": [108, 198, 68],
+            "selected_match_fg": [108, 198, 68]
+        },
+        {
+            "class": "quick_panel_path_label",
+            "settings": ["theme_primer_tab_active_red"],
+            "match_fg": [189, 44, 0],
+            "selected_match_fg": [189, 44, 0]
+        },
+        {
+            "class": "quick_panel_path_label",
+            "settings": ["theme_primer_tab_active_orange"],
+            "match_fg": [255, 153, 51],
+            "selected_match_fg": [255, 153, 51]
+        },
+        {
+            "class": "quick_panel_path_label",
+            "settings": ["theme_primer_tab_active_purple"],
+            "match_fg": [110, 84, 148],
+            "selected_match_fg": [110, 84, 148]
+        },
     {
         "class": "quick_panel_score_label",
         "fg": [101, 115, 126, 255], // 03
@@ -866,14 +931,14 @@
     {
         "class": "mini_quick_panel_row",
         // "layer0.texture": "",
-        "layer0.tint": [51, 61, 70], // 01
+        "layer0.tint": [248, 248, 248], // 01
         "layer0.opacity": 1
     },
     {
         "class": "mini_quick_panel_row",
         "attributes": ["selected"],
         // "layer0.texture": "",
-        "layer0.tint": [34, 40, 48] // -01
+        "layer0.tint": [255, 255, 255] // -01
     },
 
 //
@@ -883,7 +948,7 @@
     {
         "class": "popup_control",
         "content_margin": [0,0],
-        "layer0.tint": [51, 61, 70], // 01
+        "layer0.tint": [248, 248, 248], // 01
         "layer0.opacity": 1
     },
     {
@@ -891,22 +956,49 @@
         "row_padding": [4,4]
     },
     {
-        "class": "auto_complete_label",
-        "fg": [101, 115, 126, 255], // 03
+        "c": "auto_complete_label",
+        "fg": [138, 138, 138, 255], // 03
         "match_fg": [192, 197, 206, 255], // 05
-        "selected_fg": [167, 173, 186, 255], // 03
+        "selected_fg": [51, 51, 51, 255], // 03
         "selected_match_fg": [192, 197, 206, 255] // 05
     },
+        // CUSTOM - Quick Panel Label
+        {
+            "class": "auto_complete_label",
+            "settings": ["theme_primer_tab_active_blue"],
+            "selected_match_fg": [65, 131, 196]
+        },
+        {
+            "class": "auto_complete_label",
+            "settings": ["theme_primer_tab_active_green"],
+            "selected_match_fg": [108, 198, 68]
+        },
+        {
+            "class": "auto_complete_label",
+            "settings": ["theme_primer_tab_active_red"],
+            "selected_match_fg": [189, 44, 0]
+        },
+        {
+            "class": "auto_complete_label",
+            "settings": ["theme_primer_tab_active_orange"],
+            "selected_match_fg": [255, 153, 51]
+        },
+        {
+            "class": "auto_complete_label",
+            "settings": ["theme_primer_tab_active_purple"],
+            "selected_match_fg": [110, 84, 148]
+        },
     {
         "class": "table_row",
         // "layer0.texture": "",
-        "layer0.tint": [79, 91, 103], // 02
+        "layer0.tint": [248, 248, 248], // 02
         "layer0.opacity": 0,
         "layer0.inner_margin": [3,1]
     },
     {
         "class": "table_row",
         "attributes": ["selected"],
+        "layer0.tint": [255, 255, 255], // 02
         "layer0.opacity": 1
     },
 
