@@ -5,26 +5,26 @@
 	<key>author</key>
 	<string>Karel Vuong</string>
 	<key>comment</key>
-	<string>Fox - Dark</string>
+	<string>Primer - Light</string>
 	<key>name</key>
-	<string>Fox - Dark</string>
+	<string>Primer - Light</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#181D20</string>
+				<string>#FAFAFA</string>
 				<key>caret</key>
 				<string>#c0c5ce</string>
 				<key>foreground</key>
-				<string>#c0c5ce</string>
+				<string>#333333</string>
 				<key>invisibles</key>
 				<string>#65737e</string>
 				<key>selection</key>
-				<string>#4f5b66</string>
+				<string>#F0F5FA</string>
 				<key>selectionBorder</key>
-				<string>#4f5b66</string>
+				<string>#4183C4</string>
 			</dict>
 		</dict>
 	</array>
