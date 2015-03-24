@@ -74,10 +74,9 @@ Only choose one setting per section.
 }
 ```
 
-###### Accent Colors
+###### Tab Font Size
 
 ```json
-  // Tab Label Font Size
   "theme_primer_tabs_font_normal": true,
   
   "theme_primer_tabs_font_small": true,
