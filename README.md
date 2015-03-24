@@ -1,6 +1,6 @@
 # Primer
 
-A custom UI and syntax theme for Sublime Text 2/3. Based on Mozilla's Firefox Developer Edition and [@kkga](https://github.com/kkga)'s [Spacegray](https://github.com/kkga/spacegray).
+A custom UI and syntax theme for Sublime Text 2/3. Based on GitHub's UI and design guidelines.
 
 ***
 
@@ -8,11 +8,11 @@ A custom UI and syntax theme for Sublime Text 2/3. Based on Mozilla's Firefox De
 
 #### Primer
 
-Default flavor based on Firefox Developer Edition - Dark.
+Default flavor based on GitHub's UI.
 
-![image](screenshots/fox.dark-html.jpg)
-![image](screenshots/fox.dark-css.jpg)
-![image](screenshots/fox.dark-js.jpg)
+![image](screenshots/github.dark-html.jpg)
+![image](screenshots/github.dark-css.jpg)
+![image](screenshots/github.dark-js.jpg)
 
 *The font used in the screenshots is __Monaco__.*
 
