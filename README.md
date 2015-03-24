@@ -46,39 +46,66 @@ Primer comes with different accent colors based on GitHub's color scheme (http:/
 
 ***Note: Don't forget to restart Sublime Text after activating the theme.***
 
-#### Settings for Primer
+***
+
+### Settings for Primer
 
 Only choose one setting per section.
+
+###### Default
 
 ```json
 {
   "theme": "Primer.sublime-theme",
-  "color_scheme": "Packages/Theme - Primer/primer.light.tmTheme",
+  "color_scheme": "Packages/Theme - Primer/primer.light.tmTheme"
+}
+```
+
+###### Accent Colors
+
+```json
+{
+  "theme_primer_tab_active_blue": true,
   
-  // Accent Colors
-  "theme_primer_tab_active_blue": true,       // default
   "theme_primer_tab_active_green": true,
   "theme_primer_tab_active_red": true,
   "theme_primer_tab_active_orange": true,
-  "theme_primer_tab_active_purple": true,
-  
+  "theme_primer_tab_active_purple": true
+}
+```
+
+###### Accent Colors
+
+```json
   // Tab Label Font Size
-  "theme_primer_tabs_font_small": true,
-  "theme_primer_tabs_font_normal": true,      // default
-  "theme_primer_tabs_font_large": true,
-  "theme_primer_tabs_font_xlarge": true,
+  "theme_primer_tabs_font_normal": true,
   
-  // Sidebar Row Padding
+  "theme_primer_tabs_font_small": true,
+  "theme_primer_tabs_font_large": true,
+  "theme_primer_tabs_font_xlarge": true
+}
+```
+
+###### Sidebar Row Padding
+
+```json
+{
+  "theme_primer_sidebar_tree_normal": true,
+  
   "theme_primer_sidebar_tree_xsmall": true,
   "theme_primer_sidebar_tree_small": true,      
-  "theme_primer_sidebar_tree_normal": true,   // default
   "theme_primer_sidebar_tree_large": true,
-  "theme_primer_sidebar_tree_xlarge": true,
+  "theme_primer_sidebar_tree_xlarge": true
+}
+```
+
+###### Sidebar Font Size
+```json
+{
+  "theme_primer_sidebar_font_normal": true,
   
-  // Sidebar Font Size
   "theme_primer_sidebar_font_small": true,      
-  "theme_primer_sidebar_font_normal": true,   // default
   "theme_primer_sidebar_font_large": true,
-  "theme_primer_sidebar_font_xlarge": true,
+  "theme_primer_sidebar_font_xlarge": true
 }
 ```
