@@ -1086,31 +1086,31 @@
         // CUSTOM - Active Regex Color
         {
             "class": "icon_regex",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_blue"],
             "layer0.tint": [65, 131, 196]
         },
         {
             "class": "icon_regex",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_green"],
             "layer0.tint": [108, 198, 68]
         },
         {
             "class": "icon_regex",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_red"],
             "layer0.tint": [189, 44, 0]
         },
         {
             "class": "icon_regex",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_orange"],
             "layer0.tint": [255, 153, 51]
         },
         {
             "class": "icon_regex",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [110, 84, 148]
         },
@@ -1130,13 +1130,13 @@
         // CUSTOM - Active Case Sensitive Color
         {
             "class": "icon_case",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_blue"],
             "layer0.tint": [65, 131, 196]
         },
         {
             "class": "icon_case",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_green"],
             "layer0.tint": [108, 198, 68]
         },
@@ -1148,13 +1148,13 @@
         },
         {
             "class": "icon_case",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_orange"],
             "layer0.tint": [255, 153, 51]
         },
         {
             "class": "icon_case",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [110, 84, 148]
         },
@@ -1174,31 +1174,31 @@
         // CUSTOM - Active Whole Word Color
         {
             "class": "icon_whole_word",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_blue"],
             "layer0.tint": [65, 131, 196]
         },
         {
             "class": "icon_whole_word",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_green"],
             "layer0.tint": [108, 198, 68]
         },
         {
             "class": "icon_whole_word",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_red"],
             "layer0.tint": [189, 44, 0]
         },
         {
             "class": "icon_whole_word",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_orange"],
             "layer0.tint": [255, 153, 51]
         },
         {
             "class": "icon_whole_word",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [110, 84, 148]
         },
@@ -1223,31 +1223,31 @@
         // CUSTOM - Active Context Color
         {
             "class": "icon_context",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_blue"],
             "layer0.tint": [65, 131, 196]
         },
         {
             "class": "icon_context",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_green"],
             "layer0.tint": [108, 198, 68]
         },
         {
             "class": "icon_context",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_red"],
             "layer0.tint": [189, 44, 0]
         },
         {
             "class": "icon_context",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_orange"],
             "layer0.tint": [255, 153, 51]
         },
         {
             "class": "icon_context",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [110, 84, 148]
         },
@@ -1267,31 +1267,31 @@
         // CUSTOM - Active Use Buffer Color
         {
             "class": "icon_use_buffer",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_blue"],
             "layer0.tint": [65, 131, 196]
         },
         {
             "class": "icon_use_buffer",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_green"],
             "layer0.tint": [108, 198, 68]
         },
         {
             "class": "icon_use_buffer",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_red"],
             "layer0.tint": [189, 44, 0]
         },
         {
             "class": "icon_use_buffer",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_orange"],
             "layer0.tint": [255, 153, 51]
         },
         {
             "class": "icon_use_buffer",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [110, 84, 148]
         },
@@ -1316,31 +1316,31 @@
         // CUSTOM - Active Reverse Color
         {
             "class": "icon_reverse",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_blue"],
             "layer0.tint": [65, 131, 196]
         },
         {
             "class": "icon_reverse",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_green"],
             "layer0.tint": [108, 198, 68]
         },
         {
             "class": "icon_reverse",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_red"],
             "layer0.tint": [189, 44, 0]
         },
         {
             "class": "icon_reverse",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_orange"],
             "layer0.tint": [255, 153, 51]
         },
         {
             "class": "icon_reverse",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [110, 84, 148]
         },
@@ -1360,31 +1360,31 @@
         // CUSTOM - Active Wrap Color
         {
             "class": "icon_wrap",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_blue"],
             "layer0.tint": [65, 131, 196]
         },
         {
             "class": "icon_wrap",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_green"],
             "layer0.tint": [108, 198, 68]
         },
         {
             "class": "icon_wrap",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_red"],
             "layer0.tint": [189, 44, 0]
         },
         {
             "class": "icon_wrap",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_orange"],
             "layer0.tint": [255, 153, 51]
         },
         {
             "class": "icon_wrap",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [110, 84, 148]
         },
@@ -1404,31 +1404,31 @@
         // CUSTOM - Active In Selection Color
         {
             "class": "icon_in_selection",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_blue"],
             "layer0.tint": [65, 131, 196]
         },
         {
             "class": "icon_in_selection",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_green"],
             "layer0.tint": [108, 198, 68]
         },
         {
             "class": "icon_in_selection",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_red"],
             "layer0.tint": [189, 44, 0]
         },
         {
             "class": "icon_in_selection",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_orange"],
             "layer0.tint": [255, 153, 51]
         },
         {
             "class": "icon_in_selection",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [110, 84, 148]
         },
@@ -1453,31 +1453,31 @@
         // CUSTOM - Active Preserve Case Color
         {
             "class": "icon_preserve_case",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_blue"],
             "layer0.tint": [65, 131, 196]
         },
         {
             "class": "icon_preserve_case",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_green"],
             "layer0.tint": [108, 198, 68]
         },
         {
             "class": "icon_preserve_case",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_red"],
             "layer0.tint": [189, 44, 0]
         },
         {
             "class": "icon_preserve_case",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_orange"],
             "layer0.tint": [255, 153, 51]
         },
         {
             "class": "icon_preserve_case",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [110, 84, 148]
         },
@@ -1502,31 +1502,31 @@
         // CUSTOM - Active Highlight Color
         {
             "class": "icon_highlight",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_blue"],
             "layer0.tint": [65, 131, 196]
         },
         {
             "class": "icon_highlight",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_green"],
             "layer0.tint": [108, 198, 68]
         },
         {
             "class": "icon_highlight",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_red"],
             "layer0.tint": [189, 44, 0]
         },
         {
             "class": "icon_highlight",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_orange"],
             "layer0.tint": [255, 153, 51]
         },
         {
             "class": "icon_highlight",
-            "attributes": ["selected"],
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [110, 84, 148]
         },
