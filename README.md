@@ -74,6 +74,12 @@ Only choose one setting per section.
 }
 ```
 
+![screenshot-clr-blue](screenshots/clr-blue.jpg)
+![screenshot-clr-green](screenshots/clr-green.jpg)
+![screenshot-clr-red](screenshots/clr-red.jpg)
+![screenshot-clr-orange](screenshots/clr-orange.jpg)
+![screenshot-clr-purple](screenshots/clr-purple.jpg)
+
 ###### Tab Font Size
 
 ```json
