@@ -120,7 +120,7 @@
         "class": "tab_close_button",
         "layer0.texture": "Theme - Primer/Primer/close.png",
         "layer0.opacity": 0,
-        "layer0.tint": [255, 255, 255] // 03
+        "layer0.tint": [191, 97, 106]
     },
     {
         "class": "tab_close_button",
@@ -131,7 +131,7 @@
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["hover"]}],
         "layer0.texture": "Theme - Primer/Primer/close.png",
-        "layer0.opacity": 1
+        "layer0.opacity": 0.5
     },
     {
         "class": "tab_close_button",
@@ -143,7 +143,13 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["selected"]}],
-        "layer0.opacity": 1
+        "layer0.opacity": 0.5,
+        "layer0.tint": [255, 255, 255]
+    },
+    {
+        "class": "tab_close_button",
+        "parents": [{"class": "tab_control","attributes": ["selected", "hover"]}],
+        "layer0.opacity": 0.5
     },
     // Tab dirty button
     {
@@ -165,13 +171,14 @@
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
         "layer0.texture": "Theme - Primer/Primer/close.png",
         "attributes": ["hover"],
-        "layer0.opacity": 1,
-        "layer0.tint": [191, 97, 106] // 08
+        "layer0.opacity": 0.5,
+        "layer0.tint": [191, 97, 106]
     },
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty","selected"]}],
-        "layer0.tint": [255, 255, 255], // 0A
+        "layer0.tint": [255, 255, 255],
+        "layer0.opacity": 0.5
     },
     // Tab highlight button
     {
@@ -189,14 +196,14 @@
         "class": "tab_close_button",
         "settings": ["show_tab_close_buttons"],
         "attributes": ["hover"],
-        "layer0.tint": [189, 44, 0]
+        "layer0.opacity": 0.5
     },
     // Tab close button pressed
     {
         "class": "tab_close_button",
         "settings": ["show_tab_close_buttons"],
         "attributes": ["pressed"],
-        "layer0.opacity": 0.5
+        "layer0.opacity": 1.0
     },
 
 //
