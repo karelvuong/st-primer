@@ -10,7 +10,9 @@ A custom UI and syntax theme for Sublime Text 2/3. Based on GitHub's UI and desi
 
 Default flavor based on GitHub's UI.
 
-![image](screenshots/js.png)
+![image](screenshots/github.dark-html.jpg)
+![image](screenshots/github.dark-css.jpg)
+![image](screenshots/github.dark-js.jpg)
 
 *The font used in the screenshots is __Monaco__.*
 
