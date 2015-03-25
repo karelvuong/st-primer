@@ -788,9 +788,15 @@
     // Text input field item
     {
         "class": "text_line_control",
-        "content_margin": [0, 0],
-        // "layer0.texture": "",
-        "layer0.tint": [255, 255, 255]
+        "layer0.texture": "",
+        "layer0.tint": [255, 255, 255],
+        "layer0.inner_margin": [4, 5, 4, 3],
+        "layer0.opacity": 1,
+        "content_margin": [8, 8],
+        "layer1.texture": "",
+        "layer1.tint": [250, 250, 250], // -00
+        "layer1.inner_margin": [0, 0, 0, 0],
+        "layer1.opacity": 1,
     },
 
 //
@@ -800,7 +806,6 @@
     // Bottom panel background
     {
         "class": "panel_control",
-        "content_margin": 0,
         // "layer0.texture": "",
         "layer0.inner_margin": [8, 8],
         "layer0.opacity": 1,
@@ -809,7 +814,8 @@
         "layer1.tint": [221, 221, 221], // -00
         "layer1.draw_center": false,
         "layer1.inner_margin": [0, 1, 0, 0],
-        "layer1.opacity": 1
+        "layer1.opacity": 1,
+        "content_margin": 0
     },
     // Quick panel background
     {
