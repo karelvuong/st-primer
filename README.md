@@ -55,6 +55,8 @@ Primer comes with different accent colors based on GitHub's color scheme (http:/
 }
 ```
 
+#### Customization
+
 Only choose one setting per section.
 
 ###### Accent Colors
