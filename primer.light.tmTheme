@@ -44,6 +44,8 @@
 				<string>#F0F5FA</string>
 				<key>selection</key>
 				<string>#F0F5FA</string>
+				<key>selectionBorder</key>
+				<string>#4183C4</string>
 			</dict>
 		</dict>
 
