@@ -10,9 +10,8 @@ A custom UI and syntax theme for Sublime Text 2/3. Based on GitHub's UI and desi
 
 Default flavor based on GitHub's UI.
 
-![image](screenshots/github.dark-html.jpg)
-![image](screenshots/github.dark-css.jpg)
-![image](screenshots/github.dark-js.jpg)
+![image](screenshots/js.jpg)
+>>>>>>> origin/master
 
 *The font used in the screenshots is __Monaco__.*
 
@@ -22,7 +21,7 @@ Default flavor based on GitHub's UI.
 
 #### Via Package Control
 
-The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Fox is listed as `Theme - Primer`.
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Primer is listed as `Theme - Primer`.
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
@@ -50,10 +49,6 @@ Primer comes with different accent colors based on GitHub's color scheme (http:/
 
 ### Settings for Primer
 
-Only choose one setting per section.
-
-###### Default
-
 ```json
 {
   "theme": "Primer.sublime-theme",
@@ -61,12 +56,16 @@ Only choose one setting per section.
 }
 ```
 
+#### Customization
+
+Only choose one setting per section.
+
 ###### Accent Colors
 
 ```json
 {
   "theme_primer_tab_active_blue": true,
-  
+
   "theme_primer_tab_active_green": true,
   "theme_primer_tab_active_red": true,
   "theme_primer_tab_active_orange": true,
@@ -78,7 +77,7 @@ Only choose one setting per section.
 
 ```json
   "theme_primer_tabs_font_normal": true,
-  
+
   "theme_primer_tabs_font_small": true,
   "theme_primer_tabs_font_large": true,
   "theme_primer_tabs_font_xlarge": true
@@ -90,9 +89,9 @@ Only choose one setting per section.
 ```json
 {
   "theme_primer_sidebar_tree_normal": true,
-  
+
   "theme_primer_sidebar_tree_xsmall": true,
-  "theme_primer_sidebar_tree_small": true,      
+  "theme_primer_sidebar_tree_small": true,
   "theme_primer_sidebar_tree_large": true,
   "theme_primer_sidebar_tree_xlarge": true
 }
@@ -102,8 +101,8 @@ Only choose one setting per section.
 ```json
 {
   "theme_primer_sidebar_font_normal": true,
-  
-  "theme_primer_sidebar_font_small": true,      
+
+  "theme_primer_sidebar_font_small": true,
   "theme_primer_sidebar_font_large": true,
   "theme_primer_sidebar_font_xlarge": true
 }
