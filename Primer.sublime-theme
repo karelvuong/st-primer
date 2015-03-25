@@ -437,7 +437,7 @@
     // General labels
     {
         "class": "label_control",
-        "color": [101, 115, 126] // 03
+        "color": [153, 153, 153] // 03
     },
     // Text field labels
     {
@@ -659,7 +659,7 @@
         "layer0.texture": "Theme - Primer/Primer/close.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": 0,
-        "layer0.tint": [101, 115, 126], // 03
+        "layer0.tint": [153, 153, 153], // 03
         "content_margin": [8,8]
     },
     {
@@ -797,6 +797,11 @@
         "layer1.tint": [250, 250, 250], // -00
         "layer1.inner_margin": [0, 0, 0, 0],
         "layer1.opacity": 1,
+        "layer2.texture": "",
+        "layer2.tint": [221, 221, 221], // -00
+        "layer2.draw_center": false,
+        "layer2.inner_margin": [1, 1, 1, 1],
+        "layer2.opacity": 1,
     },
 
 //
@@ -830,6 +835,16 @@
         "layer1.inner_margin": [1, 0, 1, 1],
         "layer1.opacity": 1
     },
+    // Text input field item
+    {
+        "class": "text_line_control",
+        "parents": [{"class": "overlay_control"}],
+        "layer2.texture": "",
+        "layer2.tint": [221, 221, 221], // -00
+        "layer2.draw_center": false,
+        "layer2.inner_margin": [0, 0, 0, 1],
+        "layer2.opacity": 1,
+    },
 
 //
 // QUICK PANEL
@@ -838,14 +853,14 @@
     {
         "class": "quick_panel",
         "row_padding": 8,
-        "layer0.tint": [51, 61, 70],
+        "layer0.tint": [248, 248, 248],
         "layer0.opacity": 1,
         "dark_content": true
     },
     {
         "class": "quick_panel_row",
         // "layer0.texture": "",
-        "layer0.tint": [51, 61, 70], // 01
+        "layer0.tint": [248, 248, 248], // 01
         "layer0.inner_margin": 8,
         "layer0.opacity": 1
     },
@@ -853,7 +868,7 @@
         "class": "quick_panel_row",
         "attributes": ["selected"],
         // "layer0.texture": "",
-        "layer0.tint": [34, 40, 48] // -01
+        "layer0.tint": [255, 255, 255] // -01
     },
     {
         "class": "quick_panel_label",
@@ -895,7 +910,7 @@
         },
     {
         "class": "quick_panel_path_label",
-        "fg": [101, 115, 126, 255], // 03
+        "fg": [153, 153, 153, 255], // 03
         "match_fg": [167, 173, 186, 255], // 04
         "selected_fg": [101, 115, 126, 255], // 03
         "selected_match_fg": [167, 173, 186, 255] // 04
