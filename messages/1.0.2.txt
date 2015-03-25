@@ -1,10 +1,10 @@
 # New in Primer 1.0.2
 
-- Darken Quick Panel's row text color
-- Fix Goto Anything's background color
+- Darkened Quick Panel's row text color
+- Fixed Goto Anything's background color
 - Added border to text inputs
-- Increase text input size
-- Vertically center text input
+- Increased text input size
+- Vertically centered text input
 
 *Note: If you have any suggestions for improvements and fixes, please feel free to add issues at GitHub: http://github.com/karelvuong/st-primer/issues*
 
