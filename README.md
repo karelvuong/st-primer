@@ -48,16 +48,14 @@ Primer comes with different accent colors based on GitHub's color scheme (http:/
 
 ### Settings for Primer
 
-Only choose one setting per section.
-
-###### Default
-
 ```json
 {
   "theme": "Primer.sublime-theme",
   "color_scheme": "Packages/Theme - Primer/primer.light.tmTheme"
 }
 ```
+
+Only choose one setting per section.
 
 ###### Accent Colors
 
