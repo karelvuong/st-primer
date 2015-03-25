@@ -1,0 +1,12 @@
+# New in Primer 1.0.1
+
+- Fixed Quick Panel background
+- Added screenshots for HTML, CSS, JavaScript, as well as accent colors (blue, green, red, orange, purple)
+- Added experimental dark theme (still a work in progress)
+
+*Note: If you have any suggestions for improvements and fixes, please feel free to add issues at GitHub: http://github.com/karelvuong/st-primer/issues*
+
+***
+
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*
