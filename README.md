@@ -11,7 +11,6 @@ A custom UI and syntax theme for Sublime Text 2/3. Based on GitHub's UI and desi
 Default flavor based on GitHub's UI.
 
 ![image](screenshots/js.jpg)
->>>>>>> origin/master
 
 *The font used in the screenshots is __Monaco__.*
 
