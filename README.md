@@ -75,6 +75,7 @@ Only choose one setting per section.
 ###### Tab Font Size
 
 ```json
+{
   "theme_primer_tabs_font_normal": true,
 
   "theme_primer_tabs_font_small": true,
