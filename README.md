@@ -20,7 +20,7 @@ Default flavor based on GitHub's UI.
 
 #### Via Package Control
 
-The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Fox is listed as `Theme - Primer`.
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Primer is listed as `Theme - Primer`.
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
