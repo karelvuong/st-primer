@@ -571,7 +571,7 @@
         "class": "tree_row",
         "attributes": ["selected"],
         "layer0.opacity": 1,
-        "layer0.tint": [255, 255, 255], // 01
+        "layer0.tint": [255, 255, 255] // 01
     },
     // Sidebar row selected
     {
@@ -583,7 +583,7 @@
         "layer1.tint": [238, 238, 238], // -00
         "layer1.draw_center": false,
         "layer1.inner_margin": [0, 0, 1, 1],
-        "layer1.opacity": 1,
+        "layer1.opacity": 1
     },
     // Sidebar heading
     {
@@ -801,7 +801,7 @@
         "layer2.tint": [221, 221, 221], // -00
         "layer2.draw_center": false,
         "layer2.inner_margin": [1, 1, 1, 1],
-        "layer2.opacity": 1,
+        "layer2.opacity": 1
     },
 
 //
@@ -843,7 +843,7 @@
         "layer2.tint": [221, 221, 221], // -00
         "layer2.draw_center": false,
         "layer2.inner_margin": [0, 0, 0, 1],
-        "layer2.opacity": 1,
+        "layer2.opacity": 1
     },
 
 //
