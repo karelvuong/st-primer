@@ -1,0 +1,10 @@
+# New in Primer 1.0.3
+
+- Fixed compatibility with Sublime Text 2 (trailing commas were causing the theme to spill out errors)
+
+*Note: If you have any suggestions for improvements and fixes, please feel free to add issues at GitHub: http://github.com/karelvuong/st-primer/issues*
+
+***
+
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*
