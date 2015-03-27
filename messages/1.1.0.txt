@@ -1,4 +1,4 @@
-# New in Primer 1.0.3
+# New in Primer 1.1.0
 
 - Dark theme has arrived!
 
