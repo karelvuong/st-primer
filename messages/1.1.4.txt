@@ -1,0 +1,10 @@
+# New in Primer 1.1.4
+
+- Updated icons to use Seti ST3's icons (https://github.com/ctf0/Seti_ST3)
+
+*Note: If you have any suggestions for improvements and fixes, please feel free to add issues at GitHub: http://github.com/karelvuong/st-primer/issues*
+
+***
+
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*
