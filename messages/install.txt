@@ -18,6 +18,9 @@ Only choose one setting per section.
   "theme": "Primer.sublime-theme",
   "color_scheme": "Packages/Theme - Primer/primer.light.tmTheme",
 
+  "theme": "Primer Dark.sublime-theme",
+  "color_scheme": "Packages/Theme - Primer/primer.dark.tmTheme",
+
   // Accent Colors
   "theme_primer_tab_active_blue": true,       // default
   "theme_primer_tab_active_green": true,

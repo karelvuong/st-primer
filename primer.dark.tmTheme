@@ -41,7 +41,7 @@
 				<string>#5C6773</string>
 				<!-- Gutter line highlight -->
 				<key>lineHighlight</key>
-				<string>#292C33</string>
+				<string>#343841</string>
 				<key>selection</key>
 				<string>#3F454F</string>
 				<key>selectionBorder</key>
