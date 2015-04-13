@@ -55,9 +55,9 @@
     {
         "class": "tab_control",
         "attributes": ["hover"],
-        "layer0.texture": "",
         // "layer0.tint": [247, 247, 247],  // 00
-        // "layer1.tint": [221, 221, 221]
+        // "layer1.tint": [221, 221, 221],
+        "layer0.texture": ""
     },
     // Tab active state
     {
@@ -592,7 +592,7 @@
         "layer1.tint": [50, 54, 62], // -00
         "layer1.draw_center": false,
         "layer1.inner_margin": [0, 0, 1, 1],
-        "layer1.opacity": 1,
+        "layer1.opacity": 1
     },
     // Sidebar heading
     {
@@ -641,7 +641,7 @@
     },
     {
         "class": "sidebar_label",
-        "parents": [{"class": "tree_row","attributes": ["hover"]}],
+        "parents": [{"class": "tree_row","attributes": ["hover"]}]
     },
     {
         "class": "sidebar_label",
@@ -730,8 +730,8 @@
     },
     {
         "class": "disclosure_button_control",
-        "parents": [{"class": "tree_row","attributes": ["hover"]}],
         // "layer0.tint":[167, 173, 186]
+        "parents": [{"class": "tree_row","attributes": ["hover"]}]
     },
     {
         "class": "disclosure_button_control",
