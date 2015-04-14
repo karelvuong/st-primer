@@ -1,0 +1,11 @@
+# New in Primer 1.1.5
+
+- Fixed broken theme on ST2 (thanks @omgmog!)
+- Fixed scrollbar on Ubuntu and Windows
+
+*Note: If you have any suggestions for improvements and fixes, please feel free to add issues at GitHub: http://github.com/karelvuong/st-primer/issues*
+
+***
+
+
+*Note: Don't forget to restart Sublime Text after activating the theme.*

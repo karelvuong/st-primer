@@ -55,9 +55,7 @@
     {
         "class": "tab_control",
         "attributes": ["hover"],
-        "layer0.texture": "",
-        // "layer0.tint": [247, 247, 247],  // 00
-        // "layer1.tint": [221, 221, 221]
+        "layer0.texture": ""
     },
     // Tab active state
     {
@@ -287,7 +285,7 @@
     {
         "class": "scroll_bar_control",
         "layer0.texture": "",
-        "layer0.tint": [20, 22, 25], // -01
+        "layer0.tint": [34, 37, 43], // -01
         "layer0.opacity": 1,
         "layer0.inner_margin": [0,0],
         "blur": true
@@ -297,7 +295,7 @@
         "class": "scroll_bar_control",
         "attributes": ["horizontal"],
         "layer0.texture": "",
-        "layer0.tint": [20, 22, 25], // -01
+        "layer0.tint": [34, 37, 43], // -01
         "layer0.inner_margin": [0,0],
         "blur": true
     },
@@ -350,7 +348,7 @@
         "class": "scroll_bar_control",
         "settings": ["overlay_scroll_bars"],
         // "layer0.texture": "",
-        "layer0.tint": [20, 22, 25], // 00
+        "layer0.tint": [34, 37, 43], // 00
         "layer0.inner_margin": [0,5],
         "layer0.opacity": 0,
         "blur": false
@@ -360,6 +358,7 @@
         "class": "scroll_bar_control",
         "settings": ["overlay_scroll_bars"],
         "attributes": ["horizontal"],
+        "layer0.tint": [34, 37, 43], // 00
         "layer0.inner_margin": [5,0],
         "layer0.opacity": 0,
         "blur": true
@@ -571,17 +570,17 @@
         "layer1.opacity": 1
     },
     // Sidebar row hover
-    // {
-    //     "class": "tree_row",
-    //     "attributes": ["hover"],
-    //     "layer0.opacity": 1,
-    //     "layer0.tint": [29, 31, 36], // 01
-    //     "layer1.texture": "",
-    //     "layer1.tint": [29, 31, 36], // -00
-    //     "layer1.draw_center": false,
-    //     "layer1.inner_margin": [0, 0, 1, 1],
-    //     "layer1.opacity": 1,
-    // },
+    {
+        "class": "tree_row",
+        "attributes": ["hover"],
+        "layer0.opacity": 1,
+        "layer0.tint": [29, 31, 36], // 01
+        "layer1.texture": "",
+        "layer1.tint": [29, 31, 36], // -00
+        "layer1.draw_center": false,
+        "layer1.inner_margin": [0, 0, 1, 1],
+        "layer1.opacity": 1
+    },
     // Sidebar row selected
     {
         "class": "tree_row",
@@ -592,7 +591,7 @@
         "layer1.tint": [50, 54, 62], // -00
         "layer1.draw_center": false,
         "layer1.inner_margin": [0, 0, 1, 1],
-        "layer1.opacity": 1,
+        "layer1.opacity": 1
     },
     // Sidebar heading
     {
@@ -641,7 +640,7 @@
     },
     {
         "class": "sidebar_label",
-        "parents": [{"class": "tree_row","attributes": ["hover"]}],
+        "parents": [{"class": "tree_row","attributes": ["hover"]}]
     },
     {
         "class": "sidebar_label",
@@ -730,8 +729,7 @@
     },
     {
         "class": "disclosure_button_control",
-        "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        // "layer0.tint":[167, 173, 186]
+        "parents": [{"class": "tree_row","attributes": ["hover"]}]
     },
     {
         "class": "disclosure_button_control",
