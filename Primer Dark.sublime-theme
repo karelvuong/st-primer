@@ -979,7 +979,7 @@
     {
         "class": "popup_control",
         "content_margin": [0,0],
-        "layer0.tint": [248, 248, 248], // 01
+        "layer0.tint": [45, 49, 57], // 01
         "layer0.opacity": 1
     },
     {
@@ -987,49 +987,54 @@
         "row_padding": [4,4]
     },
     {
-        "c": "auto_complete_label",
-        "fg": [138, 138, 138, 255], // 03
-        "match_fg": [192, 197, 206, 255], // 05
-        "selected_fg": [51, 51, 51, 255], // 03
-        "selected_match_fg": [192, 197, 206, 255] // 05
+        "class": "auto_complete_label",
+        "fg": [101, 115, 126, 255],
+        "match_fg": [61, 119, 235],
+        "selected_fg": [193, 211, 247],
+        "selected_match_fg": [61, 119, 235]
     },
         // CUSTOM - Quick Panel Label
         {
             "class": "auto_complete_label",
             "settings": ["theme_primer_tab_active_blue"],
+            "match_fg": [61, 119, 235],
             "selected_match_fg": [61, 119, 235]
         },
         {
             "class": "auto_complete_label",
             "settings": ["theme_primer_tab_active_green"],
+            "match_fg": [136, 179, 121],
             "selected_match_fg": [136, 179, 121]
         },
         {
             "class": "auto_complete_label",
             "settings": ["theme_primer_tab_active_red"],
+            "match_fg": [188, 110, 124],
             "selected_match_fg": [188, 110, 124]
         },
         {
             "class": "auto_complete_label",
             "settings": ["theme_primer_tab_active_orange"],
+            "match_fg": [212, 154, 103],
             "selected_match_fg": [212, 154, 103]
         },
         {
             "class": "auto_complete_label",
             "settings": ["theme_primer_tab_active_purple"],
+            "match_fg": [178, 126, 205],
             "selected_match_fg": [178, 126, 205]
         },
     {
         "class": "table_row",
         // "layer0.texture": "",
-        "layer0.tint": [248, 248, 248], // 02
+        "layer0.tint": [45, 49, 57], // 02
         "layer0.opacity": 0,
         "layer0.inner_margin": [3,1]
     },
     {
         "class": "table_row",
         "attributes": ["selected"],
-        "layer0.tint": [255, 255, 255], // 02
+        "layer0.tint": [59, 64, 74], // 02
         "layer0.opacity": 1
     },
 
