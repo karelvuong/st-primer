@@ -1,6 +1,6 @@
 # Primer
 
-A custom UI and syntax theme for Sublime Text 2/3. Based on GitHub's UI and design guidelines.
+A custom UI and syntax theme for Sublime Text 2/3 that comes in, both, a light and dark variation. Based on GitHub's UI and design guidelines.
 
 ***
 
