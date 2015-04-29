@@ -63,6 +63,8 @@ Only choose one setting per section.
 
 ###### Accent Colors
 
+Accent colors are used in a number of different places ranging from the active tab, matched text color in the quick panel, and others.
+
 ```json
 {
   "theme_primer_tab_active_blue": true,
