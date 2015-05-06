@@ -50,10 +50,19 @@ Primer comes with different accent colors based on GitHub's color scheme (http:/
 
 ### Settings for Primer
 
+#### Light
 ```json
 {
   "theme": "Primer.sublime-theme",
   "color_scheme": "Packages/Theme - Primer/primer.light.tmTheme"
+}
+```
+
+#### Dark
+```json
+{
+  "theme": "Primer Dark.sublime-theme",
+  "color_scheme": "Packages/Theme - Primer/primer.dark.tmTheme"
 }
 ```
 
