@@ -91,6 +91,18 @@ Accent colors are used in a number of different places ranging from the active t
 ![screenshot-clr-orange](screenshots/clr-orange.jpg)
 ![screenshot-clr-purple](screenshots/clr-purple.jpg)
 
+###### Tab Height
+
+```json
+{
+  "theme_primer_tabs_normal": true,
+
+  "theme_primer_tabs_small": true,
+  "theme_primer_tabs_large": true,
+  "theme_primer_tabs_xlarge": true
+}
+```
+
 ###### Tab Font Size
 
 ```json
