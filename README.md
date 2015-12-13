@@ -1,3 +1,7 @@
+[![GitHub tag](https://img.shields.io/github/tag/karelvuong/st-primer.svg?style=flat-square)](https://github.com/karelvuong/st-primer/releases/latest)
+[![GitHub tag](https://img.shields.io/github/release/karelvuong/st-primer.svg?style=flat-square)](https://github.com/karelvuong/st-primer/releases)
+[![Downloads](https://packagecontrol.herokuapp.com/downloads/Theme%20-%20Primer.svg?color=4183c4&style=flat-square)](https://packagecontrol.io/packages/Theme%20-%20Primer)
+
 # Primer
 
 A custom UI and syntax theme for Sublime Text 2/3 that comes in, both, a light and dark variation. Based on GitHub's UI and design guidelines.
