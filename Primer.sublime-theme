@@ -572,7 +572,7 @@
         "class": "tree_row",
         "attributes": ["selected"],
         "layer0.opacity": 1,
-        "layer0.tint": [255, 255, 255] // 01
+        "layer0.tint": [200, 219, 238] // 01
     },
     // Sidebar row selected
     {
@@ -827,7 +827,7 @@
     {
         "class": "overlay_control",
         "content_margin": [1, 1],
-        "layer0.tint": [248, 248, 248], // 01
+        "layer0.tint": [200, 219, 238], // 01
         "layer0.inner_margin": [0,0,0,0],
         "layer0.opacity": 1,
         "layer1.texture": "",
