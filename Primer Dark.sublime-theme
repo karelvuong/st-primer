@@ -586,9 +586,9 @@
         "class": "tree_row",
         "attributes": ["selected"],
         "layer0.opacity": 1,
-        "layer0.tint": [20, 42, 60],
+        "layer0.tint": [61, 119, 235],
         "layer1.texture": "",
-        "layer1.tint": [20, 42, 60], // -00
+        "layer1.tint": [50, 54, 62], // -00
         "layer1.draw_center": false,
         "layer1.inner_margin": [0, 0, 1, 1],
         "layer1.opacity": 1
@@ -828,7 +828,7 @@
         // "layer0.texture": "",
         "layer0.inner_margin": [8, 8],
         "layer0.opacity": 1,
-        "layer0.tint": [20, 42, 60],
+        "layer0.tint": [34, 37, 43],
         "layer1.texture": "",
         "layer1.tint": [29, 31, 36], // -00
         "layer1.draw_center": false,
