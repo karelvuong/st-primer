@@ -23,7 +23,6 @@
 		<key>selectionForeground</key>
 		<string>#a7adba</string>
 	</dict>
-
 	<key>settings</key>
 	<array>
 		<dict>
@@ -48,11 +47,6 @@
 				<string>#4183C4</string>
 			</dict>
 		</dict>
-
-
-
-
-
 		<dict>
 		  <key>name</key>
 		  <string>Source base background</string>
@@ -66,12 +60,6 @@
 			<string>#333333</string>
 		  </dict>
 		</dict>
-
-
-
-
-
-
 		<dict>
 			<key>name</key>
 			<string>Text</string>
@@ -453,7 +441,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#183691</string>
+				<string>#A1DF8A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -464,7 +452,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ED6A43</string>
+				<string>#EB5368</string>
 			</dict>
 		</dict>
 		<dict>
@@ -475,7 +463,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A71D5D</string>
+				<string>#F0C36F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -486,7 +474,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4f5b66</string>
+				<string>#565656</string>
 			</dict>
 		</dict>
 		<dict>
@@ -497,7 +485,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4f5b66</string>
+				<string>#565656</string>
 			</dict>
 		</dict>
 		<dict>
@@ -557,138 +545,17 @@
 				<string>#14171A</string>
 			</dict>
 		</dict>
-
-      <dict>
-      <key>name</key>
-      <string>Strings, Inherited Class</string>
-      <key>scope</key>
-      <string>string.quoted.double.html invalid.illegal.bad-ampersand.html</string>
-      <key>settings</key>
-      <dict>
-        <key>background</key>
-        <string>#ffffff</string>
-        <key>foreground</key>
-        <string>#4180C6</string>
-      </dict>
-    </dict>
-
-
-
-
 		<dict>
 			<key>name</key>
-			<string>GitGutter deleted</string>
+			<string>Strings, Inherited Class</string>
 			<key>scope</key>
-			<string>markup.deleted.git_gutter</string>
+			<string>string.quoted.double.html invalid.illegal.bad-ampersand.html</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#ffffff</string>
 				<key>foreground</key>
-				<string>#F92672</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter inserted</string>
-			<key>scope</key>
-			<string>markup.inserted.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#A6E22E</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter changed</string>
-			<key>scope</key>
-			<string>markup.changed.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#967EFB</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter ignored</string>
-			<key>scope</key>
-			<string>markup.ignored.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#565656</string>
-			</dict>
-		</dict>
-
-
-
-
-
-		<!-- Git Gutter -->
-		<dict>
-			<key>name</key>
-			<string>GitGutter untracked</string>
-			<key>scope</key>
-			<string>markup.untracked.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#565656</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter deleted</string>
-			<key>scope</key>
-			<string>markup.deleted.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#EB5368</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter inserted</string>
-			<key>scope</key>
-			<string>markup.inserted.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#A1DF8A</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter changed</string>
-			<key>scope</key>
-			<string>markup.changed.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#F0C36F</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter ignored</string>
-			<key>scope</key>
-			<string>markup.ignored.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#565656</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter untracked</string>
-			<key>scope</key>
-			<string>markup.untracked.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#565656</string>
+				<string>#4180C6</string>
 			</dict>
 		</dict>
 	</array>
