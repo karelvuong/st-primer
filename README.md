@@ -1,6 +1,11 @@
-[![GitHub tag](https://img.shields.io/github/tag/karelvuong/st-primer.svg?style=flat-square)](https://github.com/karelvuong/st-primer/releases/latest)
-[![GitHub tag](https://img.shields.io/github/release/karelvuong/st-primer.svg?style=flat-square)](https://github.com/karelvuong/st-primer/releases)
-[![Downloads](https://packagecontrol.herokuapp.com/downloads/Theme%20-%20Primer.svg?color=4183c4&style=flat-square)](https://packagecontrol.io/packages/Theme%20-%20Primer)
+[![GitHub tag](https://img.shields.io/github/tag/karelvuong/st-primer.svg?style=flat-square)](https://github.com/karelvuong/st-primer/releases/latest/)
+[![GitHub release](https://img.shields.io/github/release/karelvuong/st-primer.svg?style=flat-square)](https://github.com/karelvuong/st-primer/releases/)
+[![GitHub issues](https://img.shields.io/github/issues/karelvuong/st-primer.svg?style=flat-square)](https://github.com/karelvuong/st-primer/issues?utf8=✓&q=is%3Aissue+is%3Aopen)
+[![GitHub forks](https://img.shields.io/github/forks/karelvuong/st-primer.svg?style=social&label=Fork)](https://github.com/karelvuong/st-primer/network/)
+[![GitHub stars](https://img.shields.io/github/stars/karelvuong/st-primer.svg?style=social&label=Star)](https://github.com/karelvuong/st-primer/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/karelvuong/st-primer.svg?style=social&label=Watch)](https://github.com/karelvuong/st-primer/watchers/)
+[![Packagecontrol downloads total](https://img.shields.io/packagecontrol/dt/Theme%20-%20Primer.svg?style=flat-square)](https://packagecontrol.io/packages/Theme%20-%20Primer)
+[![Packagecontrol downloads monthly](https://img.shields.io/packagecontrol/dm/Theme%20-%20Primer.svg?style=flat-square)](https://packagecontrol.io/packages/Theme%20-%20Primer)
 
 # Primer
 
