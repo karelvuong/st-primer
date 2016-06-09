@@ -101,6 +101,13 @@
             "layer0.tint": [178, 126, 205],
             "layer1.tint": [178, 126, 205]
         },
+        {
+            "class": "tab_control",
+            "attributes": ["selected"],
+            "settings": ["theme_primer_tab_active_pink"],
+            "layer0.tint": [233, 30, 99],
+            "layer1.tint": [233, 30, 99]
+        },
     // Tab dirty state (close button hidden)
     {
         "class": "tab_control",
@@ -911,6 +918,12 @@
             "match_fg": [178, 126, 205],
             "selected_match_fg": [178, 126, 205]
         },
+        {
+            "class": "quick_panel_label",
+            "settings": ["theme_primer_tab_active_pink"],
+            "match_fg": [233, 30, 99],
+            "selected_match_fg": [233, 30, 99]
+        },
     {
         "class": "quick_panel_path_label",
         "fg": [101, 115, 126, 255], // 03
@@ -948,6 +961,12 @@
             "settings": ["theme_primer_tab_active_purple"],
             "match_fg": [178, 126, 205],
             "selected_match_fg": [178, 126, 205]
+        },
+        {
+            "class": "quick_panel_path_label",
+            "settings": ["theme_primer_tab_active_pink"],
+            "match_fg": [233, 30, 99],
+            "selected_match_fg": [233, 30, 99]
         },
     {
         "class": "quick_panel_score_label",
@@ -1023,6 +1042,12 @@
             "settings": ["theme_primer_tab_active_purple"],
             "match_fg": [178, 126, 205],
             "selected_match_fg": [178, 126, 205]
+        },
+        {
+            "class": "auto_complete_label",
+            "settings": ["theme_primer_tab_active_pink"],
+            "match_fg": [233, 30, 99],
+            "selected_match_fg": [233, 30, 99]
         },
     {
         "class": "table_row",
@@ -1143,6 +1168,12 @@
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [178, 126, 205]
         },
+        {
+            "class": "icon_regex",
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+            "settings": ["theme_primer_tab_active_pink"],
+            "layer0.tint": [233, 30, 99]
+        },
     // Case sensitive search button
     {
         "class": "icon_case",
@@ -1187,6 +1218,12 @@
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [178, 126, 205]
         },
+        {
+            "class": "icon_case",
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+            "settings": ["theme_primer_tab_active_pink"],
+            "layer0.tint": [233, 30, 99]
+        },
     // Match whole word search button
     {
         "class": "icon_whole_word",
@@ -1230,6 +1267,12 @@
             "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [178, 126, 205]
+        },
+        {
+            "class": "icon_whole_word",
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+            "settings": ["theme_primer_tab_active_pink"],
+            "layer0.tint": [233, 30, 99]
         },
 
 //
@@ -1280,6 +1323,12 @@
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [178, 126, 205]
         },
+        {
+            "class": "icon_context",
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+            "settings": ["theme_primer_tab_active_pink"],
+            "layer0.tint": [233, 30, 99]
+        },
     // Use search buffer
     {
         "class": "icon_use_buffer",
@@ -1323,6 +1372,12 @@
             "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [178, 126, 205]
+        },
+        {
+            "class": "icon_use_buffer",
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+            "settings": ["theme_primer_tab_active_pink"],
+            "layer0.tint": [233, 30, 99]
         },
 
 
@@ -1373,6 +1428,12 @@
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [178, 126, 205]
         },
+        {
+            "class": "icon_reverse",
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+            "settings": ["theme_primer_tab_active_pink"],
+            "layer0.tint": [233, 30, 99]
+        },
     // Search wrap button
     {
         "class": "icon_wrap",
@@ -1417,6 +1478,12 @@
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [178, 126, 205]
         },
+        {
+            "class": "icon_wrap",
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+            "settings": ["theme_primer_tab_active_pink"],
+            "layer0.tint": [233, 30, 99]
+        },
     // Search in selection button
     {
         "class": "icon_in_selection",
@@ -1460,6 +1527,12 @@
             "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [178, 126, 205]
+        },
+        {
+            "class": "icon_in_selection",
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+            "settings": ["theme_primer_tab_active_pink"],
+            "layer0.tint": [233, 30, 99]
         },
 
 //
@@ -1510,6 +1583,12 @@
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [178, 126, 205]
         },
+        {
+            "class": "icon_preserve_case",
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+            "settings": ["theme_primer_tab_active_pink"],
+            "layer0.tint": [233, 30, 99]
+        },
 
 //
 // BOTTOM PANEL ICONS - GROUP 4
@@ -1558,6 +1637,12 @@
             "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
             "settings": ["theme_primer_tab_active_purple"],
             "layer0.tint": [178, 126, 205]
+        },
+        {
+            "class": "icon_highlight",
+            "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
+            "settings": ["theme_primer_tab_active_pink"],
+            "layer0.tint": [233, 30, 99]
         },
 
 //
