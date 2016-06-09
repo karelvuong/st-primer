@@ -27,6 +27,7 @@ Only choose one setting per section.
   "theme_primer_tab_active_red": true,
   "theme_primer_tab_active_orange": true,
   "theme_primer_tab_active_purple": true,
+  "theme_primer_tab_active_pink": true,
 
   // Tab Label Font Size
   "theme_primer_tabs_font_small": true,
