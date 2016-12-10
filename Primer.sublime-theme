@@ -500,6 +500,37 @@
         "parents": [{"class": "status_bar"}],
         "color": [79, 91, 102] // 02
     },
+    // Status bar panel switcher
+    {
+      "class": "panel_button_control",
+      "layer0.tint": [65, 131, 196] // 07
+    },
+      // CUSTOM - Status bar panel switcher color
+      {
+          "class": "panel_button_control",
+          "settings": ["theme_primer_tab_active_blue"],
+          "layer0.tint": [65, 131, 196]
+      },
+      {
+          "class": "panel_button_control",
+          "settings": ["theme_primer_tab_active_green"],
+          "layer0.tint": [108, 198, 68]
+      },
+      {
+          "class": "panel_button_control",
+          "settings": ["theme_primer_tab_active_red"],
+          "layer0.tint": [189, 44, 0]
+      },
+      {
+          "class": "panel_button_control",
+          "settings": ["theme_primer_tab_active_orange"],
+          "layer0.tint": [255, 153, 51]
+      },
+      {
+          "class": "panel_button_control",
+          "settings": ["theme_primer_tab_active_purple"],
+          "layer0.tint": [110, 84, 148]
+      },
 
 //
 // SIDEBAR
