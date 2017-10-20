@@ -51,7 +51,7 @@ You can also install the theme manually:
 
 Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (<kbd>⌘</kbd><kbd>,</kbd> on Mac).
 
-Primer comes with different accent colors based on GitHub's color scheme (http://primercss.io/colors/).
+Primer comes with different accent colors based on GitHub's color scheme (http://primercss.io/archive/colors/).
 
 ***Note: Don't forget to restart Sublime Text after activating the theme.***
 
