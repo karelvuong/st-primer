@@ -1,3 +1,5 @@
+⚠️ No longer supported ⚠️
+
 [![GitHub tag](https://img.shields.io/github/tag/karelvuong/st-primer.svg?style=flat-square)](https://github.com/karelvuong/st-primer/releases/latest/)
 [![GitHub release](https://img.shields.io/github/release/karelvuong/st-primer.svg?style=flat-square)](https://github.com/karelvuong/st-primer/releases/)
 [![GitHub issues](https://img.shields.io/github/issues/karelvuong/st-primer.svg?style=flat-square)](https://github.com/karelvuong/st-primer/issues?utf8=✓&q=is%3Aissue+is%3Aopen)
